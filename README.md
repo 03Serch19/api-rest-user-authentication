@@ -12,3 +12,5 @@ Esta es una versión de aprendizaje y pruebas, con la cual podemos escalar a un 
 * Jakarta EE
 * Spring Boot Framework
 * Persistencia con JPA puro de Jakarta EE
+
+Abril 2025
